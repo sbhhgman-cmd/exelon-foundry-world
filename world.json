@@ -12,6 +12,6 @@ world.jso
   "authors": [
     { "name": "Sam Goodman" }
   ],
-  "manifest": "REPLACE_ME",
-  "download": "REPLACE_ME"
+"manifest": "https://raw.githubusercontent.com/sbhhgman-cmd/exelon-foundry-world/main/world.json",
+"download": "https://github.com/sbhhgman-cmd/exelon-foundry-world/raw/main/exelon-v2.zip"
 }
