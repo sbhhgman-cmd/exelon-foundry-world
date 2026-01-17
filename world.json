@@ -1,1 +1,17 @@
 world.jso
+{
+  "id": "exelon-v2",
+  "title": "Exelon v2",
+  "description": "Exelon Foundry World",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "12"
+  },
+  "system": "dnd5e",
+  "authors": [
+    { "name": "Sam Goodman" }
+  ],
+  "manifest": "REPLACE_ME",
+  "download": "REPLACE_ME"
+}
